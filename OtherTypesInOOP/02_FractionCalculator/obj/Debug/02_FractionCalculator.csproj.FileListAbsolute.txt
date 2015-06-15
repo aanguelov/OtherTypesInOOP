@@ -1,0 +1,6 @@
+C:\Users\Laptop\Desktop\GitHub\OtherTypesInOOP\OtherTypesInOOP\02_FractionCalculator\bin\Debug\02_FractionCalculator.exe.config
+C:\Users\Laptop\Desktop\GitHub\OtherTypesInOOP\OtherTypesInOOP\02_FractionCalculator\bin\Debug\02_FractionCalculator.exe
+C:\Users\Laptop\Desktop\GitHub\OtherTypesInOOP\OtherTypesInOOP\02_FractionCalculator\bin\Debug\02_FractionCalculator.pdb
+C:\Users\Laptop\Desktop\GitHub\OtherTypesInOOP\OtherTypesInOOP\02_FractionCalculator\obj\Debug\02_FractionCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Laptop\Desktop\GitHub\OtherTypesInOOP\OtherTypesInOOP\02_FractionCalculator\obj\Debug\02_FractionCalculator.exe
+C:\Users\Laptop\Desktop\GitHub\OtherTypesInOOP\OtherTypesInOOP\02_FractionCalculator\obj\Debug\02_FractionCalculator.pdb

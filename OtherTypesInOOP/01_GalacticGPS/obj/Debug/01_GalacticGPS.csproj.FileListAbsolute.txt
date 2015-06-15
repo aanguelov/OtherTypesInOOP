@@ -1,0 +1,6 @@
+C:\Users\Laptop\Desktop\GitHub\OtherTypesInOOP\OtherTypesInOOP\01_GalacticGPS\bin\Debug\01_GalacticGPS.exe.config
+C:\Users\Laptop\Desktop\GitHub\OtherTypesInOOP\OtherTypesInOOP\01_GalacticGPS\bin\Debug\01_GalacticGPS.exe
+C:\Users\Laptop\Desktop\GitHub\OtherTypesInOOP\OtherTypesInOOP\01_GalacticGPS\bin\Debug\01_GalacticGPS.pdb
+C:\Users\Laptop\Desktop\GitHub\OtherTypesInOOP\OtherTypesInOOP\01_GalacticGPS\obj\Debug\01_GalacticGPS.csprojResolveAssemblyReference.cache
+C:\Users\Laptop\Desktop\GitHub\OtherTypesInOOP\OtherTypesInOOP\01_GalacticGPS\obj\Debug\01_GalacticGPS.exe
+C:\Users\Laptop\Desktop\GitHub\OtherTypesInOOP\OtherTypesInOOP\01_GalacticGPS\obj\Debug\01_GalacticGPS.pdb
