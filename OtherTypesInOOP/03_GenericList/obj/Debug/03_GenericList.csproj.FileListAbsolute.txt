@@ -1,0 +1,6 @@
+C:\Users\Laptop\Desktop\GitHub\OtherTypesInOOP\OtherTypesInOOP\03_GenericList\bin\Debug\03_GenericList.exe.config
+C:\Users\Laptop\Desktop\GitHub\OtherTypesInOOP\OtherTypesInOOP\03_GenericList\bin\Debug\03_GenericList.exe
+C:\Users\Laptop\Desktop\GitHub\OtherTypesInOOP\OtherTypesInOOP\03_GenericList\bin\Debug\03_GenericList.pdb
+C:\Users\Laptop\Desktop\GitHub\OtherTypesInOOP\OtherTypesInOOP\03_GenericList\obj\Debug\03_GenericList.csprojResolveAssemblyReference.cache
+C:\Users\Laptop\Desktop\GitHub\OtherTypesInOOP\OtherTypesInOOP\03_GenericList\obj\Debug\03_GenericList.exe
+C:\Users\Laptop\Desktop\GitHub\OtherTypesInOOP\OtherTypesInOOP\03_GenericList\obj\Debug\03_GenericList.pdb
